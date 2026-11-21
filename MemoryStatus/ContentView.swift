@@ -79,7 +79,7 @@ struct ContentView: View {
             Divider()
             
             Toggle("Launch at Login", isOn: $monitor.launchAtLogin)
-                .toggleStyle(.switch) // .window 스타일일 때 깔끔한 스위치 모양으로 표시
+                .toggleStyle(.switch)
             
             Divider()
 
