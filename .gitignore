@@ -1,0 +1,20 @@
+# Xcode
+DerivedData/
+*.xcworkspace/xcuserdata/
+*.xcuserdata/
+build/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+xcuserstate/
+xcshareddata/
+*.pbxuser
+
+# macOS
+.DS_Store
+
+# Temp files
+*.swp
+*.swo
+*~
