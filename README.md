@@ -29,7 +29,8 @@ You can install MemoryStatus using Homebrew by tapping our repository:
 brew tap hellotunamayo/MemoryStatus
 
 # Install the app
-brew install memorystatus
+brew install memory_status
 ```
+
 ## License
 MIT

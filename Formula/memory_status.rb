@@ -5,6 +5,6 @@ class MemoryStatus < Formula
   sha256 "698d48c9ff70c97491dca2a558545a5c943911f3c7d8f49d4dccdfb348bc04b6"
 
   def install
-    bin.install "MemoryStatus.app/Contents/MacOS/MemoryStatus"
+    app.install "MemoryStatus.app"
   end
 end
