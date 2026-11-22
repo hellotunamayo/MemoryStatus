@@ -22,14 +22,12 @@ A macOS system tray utility for monitoring memory usage.
 - Xcode 17.0 or later
 
 ## Installation
-You can install MemoryStatus using Homebrew by tapping our repository:
+
+Install via Homebrew Cask:
 
 ```bash
-# Tap the repository
-brew tap hellotunamayo/MemoryStatus
-
-# Install the app
-brew install memory_status
+brew tap hellotunamayo/memory_status
+brew install --cask memory_status
 ```
 
 ## License
