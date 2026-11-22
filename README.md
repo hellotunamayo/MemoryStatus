@@ -21,21 +21,15 @@ A macOS system tray utility for monitoring memory usage.
 - Swift 6.0
 - Xcode 17.0 or later
 
-## Build & Run
+## Installation
+You can install MemoryStatus using Homebrew by tapping our repository:
 
 ```bash
-# Open the project in Xcode
-open MemoryStatus.xcodeproj
+# Tap the repository
+brew tap hellotunamayo/MemoryStatus
 
-# Or build from the command line
-xcodebuild -scheme MemoryStatus -destination 'platform=macOS' build
-
-# Run the application
-open build/Products/Debug/MemoryStatus.app
+# Install the app
+brew install memorystatus
 ```
-
-## Future Plans
-Add support for Homebrew (Formula/Cask).
-
 ## License
 MIT
