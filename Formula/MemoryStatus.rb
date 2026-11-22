@@ -1,4 +1,4 @@
-class MemoryStatus < Formula
+class memorystatus < Formula
   desc "A macOS system tray utility for real-time memory monitoring."
   homepage "https://github.com/hellotunamayo/homebrew-MemoryStatus"
   url "https://github.com/hellotunamayo/homebrew-MemoryStatus/releases/download/v1.0.0/MemoryStatus1.0.0.zip"
